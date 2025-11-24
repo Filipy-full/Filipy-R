@@ -67,4 +67,5 @@ Envíame un correo a [filipy.rodrigues.7e8@itb.cat](mailto:filipy.rodrigues.7e8@
 
 ---
 
-¡Gracias por leer! 🚀
+Link a Linkedln: https://www.linkedin.com/feed/
+Link a mi web page: https://filipy.me/
