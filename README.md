@@ -1,5 +1,7 @@
 # ¡Hola! Soy **Filipy Henrique Rodrigues Marques** 👨‍💻
 
+## Mi web: [siteAboutMe](https://filipy.me/)
+
 ### 🎓 Estudiante de Programación en el **Institut Tecnològic de Barcelona** (ITB)
    
 👋 ¡Bienvenidos a mi perfil! Soy un apasionado de la **programación** y de **resolver problemas** de manera creativa utilizando código. Mi objetivo es construir soluciones tecnológicas que puedan mejorar la vida de las personas, desde aplicaciones web hasta proyectos de inteligencia artificial. Actualmente, estudio desarrollo de software en el Instituto Tecnológico de Barcelona, donde busco aprender y mejorar mis habilidades en diversas áreas de la programación, con un enfoque especial en el desarrollo web y la inteligencia artificial.
